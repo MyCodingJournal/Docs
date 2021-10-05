@@ -49,8 +49,13 @@ Resource for All Things Programming
 - <a href="https://www.freecodecamp.org/news/learn-web-development-for-free/">Blog: Learn Web development for free</a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ### w3resource.com  
 ##### w3resource.com is created by a team of developers based in Burdwan, WestBengal, India. and is not related to W3C.
 
 - <a href='https://www.w3resource.com'>w3resource.com is a free online Web development tutorial to learn and practice web development technologies.</a>
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Cheatsheets
+
+- https://htmlcheatsheet.com/
+
