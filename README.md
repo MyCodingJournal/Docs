@@ -1,6 +1,6 @@
 # Docs
 Resource for All Things Programming
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Codecademy Docs
 ##### Community-driven code documentations for popular programming languages and frameworks
 
