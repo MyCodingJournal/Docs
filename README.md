@@ -15,6 +15,7 @@ Resource for All Things Programming
 ##### The one-stop place to find the information and tools you need to help you learn, build, and move the Web forward.
 
 - <a href="https://www.w3.org/developers/">W3C Developers</a>
+- <a href="https://www.edx.org/professional-certificate/w3cx-front-end-web-developer">W3C Frontend Web Developer Professional Certificate</a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### MDN Web Docs
