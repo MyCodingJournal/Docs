@@ -1,6 +1,14 @@
 # Docs
 Resource for All Things Programming
 
+#### Cheatsheets
+
+- https://htmlcheatsheet.com/
+
+#### Google fonts
+
+- https://fonts.google.com/
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### w3
 
@@ -55,7 +63,4 @@ Resource for All Things Programming
 - <a href='https://www.w3resource.com'>w3resource.com is a free online Web development tutorial to learn and practice web development technologies.</a>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Cheatsheets
-
-- https://htmlcheatsheet.com/
 
